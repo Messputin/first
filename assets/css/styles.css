@@ -10,4 +10,6 @@ body {
 h2 {
     color: rgb(223, 70, 24);
 }
-p {font-style: bold;}
+p {font-style: bold;
+   text-align: center;
+}
