@@ -1,0 +1,13 @@
+/* body {
+    background-color: rgb(43, 159, 226);
+    background-image: url('../images/background-img.jpg');
+} */
+
+body {
+    background-color: rgb(43, 159, 226);
+    background-image: url('/assets/images/background-img.jpg');
+}
+h2 {
+    color: rgb(223, 70, 24);
+}
+p {font-style: bold;}
